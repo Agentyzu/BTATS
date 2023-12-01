@@ -1,8 +1,8 @@
-# DATAM Algorithm
-Python code for implementing a DATAM algorithm
+# BTATS Algorithm
+Python code for implementing a BTATS algorithm
 
 # What does this do?
-The DATAM algorithm presents a Double Auction-based Task Allocation Mechanism, which can achieve distributed allocation of tasks and bandwidth among multi-UAV.
+The BTATS algorithm is based on bandwidth allocation for task assignment and transfer, and it can address the problem about the heterogeneous UAV-homogeneous capacity-heterogeneous UAV.
 
 # How do I use this?
 Check out `config.ini` for the input specification. Following that example, we create a text file that lays out the initialized properties.
